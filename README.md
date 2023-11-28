@@ -1,1 +1,1 @@
-# restaurant-page
+Really basic styling, creating a webpage using onlt javascript isn't really exciting, I was more concerned on grasping how modules and webpack work more than anything

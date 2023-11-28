@@ -1,3 +1,66 @@
-.coloraa{
-    color: red;
+.heading{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.imgback{
+    height: 100dvh;
+    width: 100vw;
+}
+#content{
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+body{
+    background-image: url('./assets/restofoto.jpg');
+    margin: 0;
+    padding: 0;
+    background-size: 70%;
+    background-position: center;
+}
+header ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    
+}
+li{
+    margin-top: 15px;
+    font-size: 20px;
+}
+button{
+padding: 5px 40px;
+}
+.creveta{
+    height: 400px;
+    width: 400px;
+}
+.p1,.p2,.p3{
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    ;
+}
+.dishh1img{
+    height: 200px;
+    width: 200px;
+}
+.dish1{
+    color: white;
 }
